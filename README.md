@@ -1,8 +1,8 @@
 # My New Tab
 
-<center>
+<p align="center">
   <img src="icons/android-chrome-128x128.png" />
-</center>
+</p>
 
 Personal new tab extension (Chromium Browsers only).
 
