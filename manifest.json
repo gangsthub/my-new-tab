@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "My New Tab – Graficos.net",
   "version": "1.0",
-  "description": "A minimal new tab page with a simple. No tracking, no ads, no BS",
+  "description": "A minimal new tab page with a simple todo app. No tracking, no ads, no BS",
   "permissions": [],
   "chrome_url_overrides": {
     "newtab": "src/newtab.html"
