@@ -8,7 +8,8 @@ import TodoStateMachine, {
   REORDER_TODOS,
 } from './todo-state-machine.js';
 
-import { todoFactory, todoTemplate } from './models.js';
+import { todoTemplate } from './templates.js';
+import { todoFactory } from './factories.js';
 
 export class TodoApp {
   constructor() {

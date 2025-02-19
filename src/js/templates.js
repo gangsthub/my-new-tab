@@ -1,16 +1,6 @@
 import { escapeHtml } from './utils.js';
 
 /**
- * @param {string} text
- * @return {import('../types/types.js').ProtoToDo}
- */
-export const todoFactory = (text) => ({
-  text,
-  completed: false,
-  editing: false,
-});
-
-/**
  * @param {import('../types/types.js').ToDo}
  */
 export const todoTemplate = (todo) => {
